@@ -11,9 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A plugin to integrate donations to WordPress websites via the Lipa Na Mpesa payment gateway.
 
 == Installation ==
-1. Upload the plugin folder to `/wp-content/plugins/`.
-2. Activate the plugin via the 'Plugins' menu in WordPress.
-3. Configure the plugin settings.
+1. Download the latest release ZIP file.
+2. In your WordPress admin dashboard, go to **Plugins > Add New > Upload Plugin**.
+3. Upload the ZIP file and activate the plugin.
+4. Configure the plugin settings.
+
 
 == Frequently Asked Questions ==
 = How do I set up the plugin? =
