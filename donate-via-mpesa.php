@@ -3,12 +3,11 @@
 Plugin Name: Donate via Mpesa
 Description: Accepts donations via Lipa Na Mpesa and logs transactions.
 Version: 1.0.0
-Author: Lexacle Technologies
+Author: WP Foss
 Text Domain: donate-via-mpesa
 Domain Path: /languages
 License: GPL2
-Plugin URI: https://www.lexacle.com/wordpress/donate-via-mpesa
-Author URI: https://www.lexacle.com
+Author URI: https://wpfoss.com
 */
 
 // Include necessary files
